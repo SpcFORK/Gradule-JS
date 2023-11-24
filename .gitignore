@@ -19,7 +19,6 @@ yarn-debug.log
 Thumbs.db
 
 # Builds and dist files
-dist/
 build/
 out/
 
